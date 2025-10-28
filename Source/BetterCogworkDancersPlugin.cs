@@ -41,9 +41,9 @@ namespace BetterCogworkDancers
                 {
                 BetterCogworkDancersPlugin.Log.LogInfo("Modifying Dancer A");
 
-                    if (__instance.gameObject.GetComponent<Dance>() == null)
+                    if (__instance.gameObject.GetComponent<DancePatch>() == null)
                     {
-                        __instance.gameObject.AddComponent<Dance>();
+                        __instance.gameObject.AddComponent<DancePatch>();
                     }
 
                 }

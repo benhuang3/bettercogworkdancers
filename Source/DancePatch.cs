@@ -23,7 +23,7 @@ namespace BetterCogworkDancers;
 [RequireComponent(typeof(tk2dSpriteAnimator))]
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(PlayMakerFSM))]
-internal class Dance : MonoBehaviour
+internal class DancePatch : MonoBehaviour
 {
     private PlayMakerFSM _control = null!;
     private PlayMakerFSM _parentControl = null!;  
