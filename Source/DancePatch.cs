@@ -1,16 +1,9 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections;
 using System.Linq;
 using UnityEngine;
 using BepInEx.Logging;
-
-using UnityEngine.SceneManagement;
-using GlobalEnums;
-using HutongGames.PlayMaker;
 using HutongGames.PlayMaker.Actions;
-using UnityObject = UnityEngine.Object;
-using HazardType = GlobalEnums.HazardType;
+
 
 
 
