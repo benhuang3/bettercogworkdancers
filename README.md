@@ -1,6 +1,6 @@
 # Better Cogwork Dancers
 
-Mods the Cogwork Dancers boss from Hollow Knight: Silksong to on the beat and at twice the speed.
+Mods the Cogwork Dancers boss from Hollow Knight: Silksong to move on the beat and at twice the speed.
 
 Nexus Mods: https://www.nexusmods.com/hollowknightsilksong/mods/705
 
