@@ -4,7 +4,7 @@ Mods the Cogwork Dancers boss from Hollow Knight: Silksong to on the beat and at
 
 Nexus Mods: https://www.nexusmods.com/hollowknightsilksong/mods/705
 
-GitHub release: https://github.com/jngo102/Silksong.LostSinner/releases/latest
+GitHub release: https://github.com/benhuang3/bettercogworkdancers/releases/tag/Latest
 
 Installation intructions
 Manual download
